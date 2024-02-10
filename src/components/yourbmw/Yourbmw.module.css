@@ -1,0 +1,82 @@
+.your{
+    display: flex;
+    width: 100%;
+    height: 500px;
+    /* background-color: aqua; */
+    flex-direction: column;
+}
+
+.yourbmw{
+    display: flex;
+    width: 100%;
+    height: 120px;
+  align-items: end;
+  justify-content: center;
+}
+
+
+.yourbmw1{
+    display: flex;
+    width: 100%;
+    height: 90px;
+    font-size: 23px;
+   align-items: end;
+    justify-content: center;
+    font-family: 'Courier New', Courier,;
+}
+
+
+.yourbmw2{
+    display: flex;
+    width: 100%;
+    height: 290px;
+    /* background-color: rgb(11, 151, 123); */
+    flex-direction: column;
+}
+
+.toxerov{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    /* border: 1px solid black; */
+    overflow: hidden;
+    justify-content: space-around;
+}
+
+.toxerov2{
+    display: flex;
+    width: 97%;
+    height: 60px;
+    /* border: 1px solid black; */
+    overflow: hidden;
+    font-size: 25px;
+    justify-content: space-around;
+    
+}
+.toxerov1{
+    display: flex;
+    width: 100%;
+    height: 130px;
+    /* border: 1px solid black; */
+    overflow: hidden;
+    align-items: center;
+  
+}
+
+.kluch{
+    width: 45%;
+    height: 140px;
+}
+.padrob{
+    display: flex;
+    width: 11%;
+    height: 55px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 20px;
+    justify-content: space-around;
+    align-items: center;
+}
+.padrob:hover{
+    border: 2px solid black;
+}

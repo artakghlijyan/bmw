@@ -1,0 +1,684 @@
+.glxavor{
+    display: grid;
+    grid-template-columns: 1fr ;
+    grid-template-rows: 200px 500px;
+    /* background-color: blue; */
+}
+
+.nkar11{
+   display: flex;
+   height: 700px;
+}
+
+.bmw1{
+    position:absolute;
+    display: flex;
+    width: 100%;
+    height: 100px;
+    /* background-color: black; */
+}
+
+.bmw22{
+    position:absolute;
+    width: 100%;
+    height: 100px;
+    /* background-color: black; */
+}
+
+.bmw221{
+    position:absolute;
+    width: 100%;
+    height: 100px;
+    /* background-color: black; */
+}
+.bmw2{
+    display: flex;
+    width: 62%;
+    height: 100px;
+    /* background-color: blue; */
+    align-items: center;
+    justify-content: right;
+}
+
+.bmw222{
+    display: flex;
+    width: 62%;
+    height: 100px;
+    /* background-color: blue; */
+    align-items: center;
+    justify-content: right;
+    float: left;
+}
+
+.bmw2221{
+    display: flex;
+    width: 62%;
+    height: 100px;
+    /* background-color: blue; */
+    align-items: center;
+    justify-content: right;
+    float: left;
+}
+
+.bmw3{
+    display: flex;
+    width: 38%;
+    height: 100px;
+    /* background-color: rgb(96, 192, 18); */
+    align-items: end;
+    justify-content: right;    
+}
+
+
+.bmw333{
+    display: flex;
+    width: 38%;
+    height: 100px;
+    /* background-color: rgb(96, 192, 18); */
+    align-items: end;
+    justify-content: right;    
+}
+.nkarbmw{
+    width: 6%;
+    height: 50px;
+    
+}
+
+.butik{
+   display: flex;
+   width: 17%;
+   height: 100px;
+   font-size: 17px;
+   font-weight: bold;
+   cursor: pointer;
+   flex-direction: column;
+   justify-content: end;
+   align-items: center;
+   border: none;
+   color: rgb(255, 255, 255);
+   background: #0000;
+}
+.butik111{
+   display: flex;
+   width: 17%;
+   height: 100px;
+   font-size: 17px;
+   font-weight: bold;
+   cursor: pointer;
+   flex-direction: column;
+   justify-content: end;
+   align-items: center;
+   border: none;
+   color: rgb(0, 0, 0);
+   background: #0000;
+}
+
+.butik11{
+   display: flex;
+   width: 17%;
+   height: 100px;
+   font-size: 18px;
+   font-weight: 700;
+   font-family: Arial, Helvetica, sans-serif;
+   cursor: pointer;
+   flex-direction: column;
+   justify-content: end;
+   align-items: center;
+   border: none;
+   color: rgb(255, 255, 255);
+   background: #0000;
+   text-decoration: none;
+}
+
+.butik1111{
+   display: flex;
+   width: 17%;
+   height: 100px;
+   font-size: 18px;
+   font-weight: 700;
+   font-family: Arial, Helvetica, sans-serif;
+   cursor: pointer;
+   flex-direction: column;
+   justify-content: end;
+   align-items: center;
+   border: none;
+   color: rgb(0, 0, 0);
+   background: #0000;
+   text-decoration: none;
+}
+
+.hoverdiv{
+    display: flex;
+    width: 100%;
+    height: 35px;
+    border: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.butik:hover .hoverdiv{
+    border-bottom: 4px solid rgb(69, 69, 244);
+ 
+}
+
+.butik11:hover .hoverdiv{
+    border-bottom: 4px solid rgb(69, 69, 244);
+ 
+}
+
+.butik111:hover .hoverdiv{
+    border-bottom: 3.5px solid rgb(69, 69, 244);
+ 
+}
+
+.butik1111:hover .hoverdiv{
+    border-bottom: 3.5px solid rgb(69, 69, 244);
+ 
+}
+
+.bet{
+    width: 10%;
+    height: 40px;
+    font-size: 23px;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.bet111{
+    width: 10%;
+    height: 40px;
+    font-size: 23px;
+    background: none;
+    border: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.hrefeik{
+    font-size: 19px;
+    color: white;
+}
+.hrefeik111{
+ font-size: 19px;
+    color: rgb(0, 0, 0);
+}
+.brto{
+    display: flex;
+    width: 50%;
+    height: 85px;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.brto111{
+    display: flex;
+    width: 50%;
+    height: 85px;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    /* background-color: aqua; */
+}
+.takigic{
+    position: absolute;
+    width: 89%;
+    height: 1.5px;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    top: 100px;
+ }
+
+ .takigic2222{
+    position: absolute;
+    width: 89%;
+    height: 1.2px;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    background-color: rgb(167, 167, 167);
+    top: 100px;
+ }
+
+
+ .takigic22{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 580px;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    /* background-color: rgb(161, 26, 26); */
+    top: 100px;
+    flex-direction: column;
+    justify-content: end;
+ }
+
+ .meji1{
+    display: flex;
+    width: 50%;
+    height: 425px;
+    /* background-color: aqua; */
+    flex-direction: column;
+    align-items: end;
+ }
+ .meji2{
+    display: flex;
+    width: 47%;
+    height: 50px;
+    /* background-color: rgb(92, 152, 24); */
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    justify-content: right;
+    align-items: center;
+ }
+  .meji3{
+    display: flex;
+    width: 40%;
+    height: 100px;
+    /* background-color: rgb(2, 66, 66); */
+    align-items: center;
+    justify-content: center;
+ }
+.ruyl{
+    display: flex;
+    width: 89%;
+    height: 20px;
+    /* background-color: blue; */
+    color: white;
+    font-weight: bold;
+   
+}
+
+.ruyl2{
+    display: flex;
+    width: 75%;
+    height: 420px;
+    /* background-color: rgb(255, 0, 123); */
+    align-items: end;
+}
+
+.hash1{
+    font-size: 70px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.bmwhref{
+    display: flex;
+    text-decoration: none;
+    width: 35%;
+    height: 55px;
+    background-color: blue;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.mobile{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+   
+}
+.mobile1{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+   
+}
+.mobile1989{
+    position: absolute;
+    display: flex;
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+   
+}
+.takimej{
+    display: flex;
+    width: 100%;
+    height: 650px;
+    /* background-color: aqua; */
+    overflow: scroll;
+    justify-content: center;
+    overflow: hidden;
+    overflow: scroll;
+}
+
+.takimej11{
+    display: flex;
+    width: 100%;
+    height: 650px;
+    /* background-color: aqua; */
+    overflow: scroll;
+    justify-content: center;
+    overflow: hidden;
+    overflow: scroll;
+}
+
+.takimej22{
+    display: flex;
+    width: 100%;
+    height: 800px;
+    /* background-color: rgb(142, 49, 204); */
+    justify-content: center;
+    cursor: pointer;
+    justify-content: center;
+}
+
+
+.avtoner{
+    display: flex;
+    width: 90%;
+    height: 890px;
+    /* background-color: coral; */
+    flex-direction: column;
+    
+}
+
+
+
+.vernagir{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    /* background-color: aquamarine; */
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: end;
+}
+
+.elektroavto{
+    display: flex;
+    width: 100%;
+    height:320px;
+    /* background-color: rgb(156, 111, 199); */
+    gap: 3px;
+}
+
+.elektroavto2{
+    display: flex;
+    width: 100%;
+    height:320px;
+    /* background-color: rgb(130, 13, 141); */
+    gap: 3px;
+}
+
+
+.elektroavtogic{
+    display: flex;
+    width: 100%;
+    height:1px;
+    background-color: rgb(175, 175, 175);
+}
+.avto01{
+    display: flex;
+    width: 24.8%;
+    height: 320px;
+    border: 1px solid black;
+    border-radius: 5px;
+  
+    border: none;
+    flex-direction: column;
+    overflow: hidden;
+    text-decoration: none;
+    color: black;
+
+}
+
+.avto01:hover .elektrik1{
+    opacity: 0.1;
+    transition: 0.2s;
+}
+
+.avto01:hover{
+    border: 1.5px solid rgb(224, 222, 222);
+}
+
+.mejtexipahox{
+    width: 100%;
+    height: 30px;
+}
+.avto01:hover .nkarbmw1{
+    top: -60px;
+    width: 100%;
+    transition: 0.4s;
+}
+
+.elektrik1{
+    display: flex;
+    width: 100%;
+    height: 130px;
+    /* background-color: rgb(190, 53, 179); */
+    opacity: 0.8;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.elektrik2{
+    display: flex;
+    width: 100%;
+    height: 290px;
+    /* background-color: rgb(154, 5, 141); */
+    margin-top: -50px;
+    justify-content: end;
+    align-items: center;
+    z-index: 99;
+    flex-direction: column;
+
+} 
+
+.ixo{
+    display: flex;
+    width: 50%;
+    height: 60px;
+    /* background-color: aquamarine; */
+    overflow: hidden;
+    align-items: end;
+    
+}
+
+.paragraf{
+    display: flex;
+    width: 50%;
+    background-color: black;
+    height: 18px;
+    color: white;
+    font-size: 17px;
+    align-items: center;
+    justify-content: center;
+    transition: 0.4s;
+}
+.avto01:hover .padrobni{
+    opacity: 1;
+    transition: 0.4s;
+}
+.ixmec{
+    font-size: 50px;
+}
+
+
+.padrobni{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    /* background-color: aquamarine; */
+    z-index: 9;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+}
+
+.nkarbmw1{
+   position: relative;
+   top: 70px;
+   display: flex;
+    width: 107%;
+    z-index: 3;
+    transition: 0.3s;
+
+}
+
+.hrefpadrobni{
+    display: flex;
+    width: 46%;
+    height: 35px;
+    background-color: rgb(0, 0, 0);
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+
+.cena{
+    font-size: 25px;
+}
+
+.cena2{
+    opacity: 0;
+    font-size: 25px;
+}
+.takimej2211{
+    display: flex;
+    width: 100%;
+    height: 660px;
+    /* background-color: rgb(142, 49, 204); */
+    justify-content: center;
+    cursor: pointer;
+    justify-content: center;
+}
+.avtoner11{
+    display: flex;
+    width: 90%;
+    height: 500px;
+    /* background-color: coral; */
+    
+}
+
+.ahrefner{
+    display: flex;
+    width: 25%;
+    height: 500px;
+    /* border: 1px solid black; */
+    flex-direction: column;
+   
+}
+
+.ahrefner22{
+    display: flex;
+    width: 25%;
+    height: 500px;
+    /* border: 1px solid black; */
+    flex-direction: column;
+   gap: 12px;
+}
+
+.arajin1{
+    display: flex;
+    width: 100%;
+    height: 270px;
+    /* background-color: blueviolet; */
+    overflow: hidden;
+    flex-direction: column;
+    justify-content: center;
+    gap: 12px;
+}
+
+.arajin{
+    display: flex;
+    width: 100%;
+    height: 230px;
+    /* background-color: rgb(43, 226, 95); */
+    align-items: center;
+    color: black;
+}
+
+.servispan{
+    font-size: 12px;
+    color: rgb(131, 132, 133);
+}
+.pahox{
+    display: flex;
+    width: 100%;
+    height: 72px;
+    /* background-color: blue; */
+}
+
+.hrefhover{
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+}
+.hrefhover:hover{
+    color: blue;
+}
+
+.naxaverj{
+    display: flex;
+    width: 100%;
+    height: 300px;
+    /* background-color: blue; */
+    justify-content: center;
+}
+.pakonline{
+    display: flex;
+    width: 25%;
+    height: 300px;
+    /* border: 1px solid black; */
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+.pakonline1{
+    display: flex;
+    width: 25%;
+    height: 150px;
+    /* border: 1px solid black; */
+    flex-direction: column;
+    gap: 12px;
+    justify-content: center;
+}
+.valo{
+    font-size: 12px;
+    color: rgb(162, 160, 160);
+}
+.mejtexhref{
+    display: flex;
+    align-items: center;
+    
+}
+
+.pot{
+    display: flex;
+    width: 75%;
+}
+
+.spanwid{
+    display: flex;
+    width: 230px;
+    font-size: 16px;
+    color: rgb(57, 57, 57);
+}

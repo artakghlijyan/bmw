@@ -1,0 +1,58 @@
+.yourbmw3{
+    display: flex;
+    width: 100%;
+    height: 450px;
+    /* background-color: aqua; */
+    align-items: center;
+}
+
+.you3{
+    display: flex;
+    width: 50%;
+    height: 370px;
+    /* background-color: blueviolet; */
+    justify-content: right;
+}
+
+.you4{
+   display: flex;
+    width: 50%;
+    height: 440px;
+    /* background-color: rgb(43, 226, 156); */
+    align-items: end;
+}
+
+.axjik{
+    width: 85%;
+    height: 330px;
+}
+
+.vernagir{
+    display: flex;
+    width: 100%;
+    height: 350px;
+    /* background-color: blue; */
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    padding: 25px;
+}
+.hreqar{
+    display: flex;
+    width: 28%;
+    height: 50px;
+    border: 1px solid black;
+    overflow: hidden;
+    font-size: 18px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+}
+.hreqar:hover{
+    border: 2px solid black;
+}
+.hashvark{
+    display: flex;
+    max-width: 70%;
+    font-size: 40px;
+}
